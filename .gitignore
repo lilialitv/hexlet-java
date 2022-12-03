@@ -3,4 +3,5 @@ node_modules/
 /coverage/
 /db/*.sqlite3
 doc/**/*.txt
-.class
+
+io/**/*.class
